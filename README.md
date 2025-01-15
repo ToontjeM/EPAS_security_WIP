@@ -113,6 +113,7 @@ gender               | M
 ### Use case 3: SQL*Wrap
 
 ### Use case 4: Transparent Data Encryption (TDE)
+Need to incorporate https://github.com/ToontjeM/TDEdemo
 
 ### Use case 5: Audit Log
 Log is in /var/lib/edb/as16/data/edb_audit
